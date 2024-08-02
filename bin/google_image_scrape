@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'google_image_scrape'
-puts GoogleImageScrape.scrape_images
+puts GoogleImageScrape.scrape_images(ARGV[0])
