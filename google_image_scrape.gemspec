@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "googscrape"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.summary     = "scrape google image marquees."
   s.description = "google image marquee scraper."
   s.authors     = ["MK"]
