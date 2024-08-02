@@ -29,5 +29,5 @@ Output will be in the working directory you've launched IRB from.
 
 The file is designed to work with the one provided in the challenge- in misc/van-gogh-paintings.html.
 
-This gem is also available on Rubygems for easier use outside of the challenge's repo.
+This gem is also available on Rubygems for easier use outside of the challenge's repo: https://rubygems.org/gems/googscrape
 
